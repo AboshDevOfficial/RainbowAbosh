@@ -1,6 +1,6 @@
 name: RainbowAbosh
 main: RainbowAbosh\Main
 version: 1.0.0
-api: [1.0.0]
+api: [5.0.0]
 load: POSTWORLD
 author: Abosh
