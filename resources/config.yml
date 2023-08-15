@@ -1,0 +1,19 @@
+---
+#Custom block data
+customBlock: false
+id: 5
+damage: 0
+#Position on which the sand entity or custom block will defaulty spawn / fall
+maxY: 1
+minY: 1
+distanceX: 1
+distanceZ: 1
+x: 1
+y: 1
+z: 1
+#World for the sand or custom block to spawn in / fall
+level: world
+#Spawn Rate in seconds
+time: 1
+multipliedBy: 15
+...
